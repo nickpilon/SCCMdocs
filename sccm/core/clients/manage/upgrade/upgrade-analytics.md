@@ -36,7 +36,7 @@ Upgrade Analytics is a solution in the Microsoft Operations Management Suite (OM
 
 ## Configure clients 
 
-There are several configuration steps that you have to take to ensrue that your clients can provide data to Upgrade Analytics:
+There are several configuration steps that you have to take to ensure that your clients can provide data to Upgrade Analytics:
 
 -  Configure client telemetry settings as described in [Configure Windows telemetry in your organization](https://technet.microsoft.com/itpro/windows/manage/configure-windows-telemetry-in-your-organization).
 -  Install the KBs described in the *Deploy the compatibility update and related KBs *section of [Get started with Upgrade Analytics](https://technet.microsoft.com/itpro/windows/deploy/upgrade-analytics-get-started).
